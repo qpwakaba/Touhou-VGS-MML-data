@@ -34,7 +34,7 @@ $G3 \s220 \e2440 @3 %50
 $H3 \s99 \e2000 p-45  @3 %65 v15 o4
 
 #-----------------------------------------------------------------------------
-Ch0 t162 m8 r1024 l16|
+Ch0 t161 m8 r1024 l16|
 Ch1         r1024 l16
 Ch2         r1024 l16
 Ch3         r1024 l16
@@ -42,10 +42,10 @@ Ch4         r1024 l16
 Ch5         r1024 l16
 
 #-----------------------------------------------------------------------------
-Ch0 (Bass)o2v13
-Ch0 c4.c8<a-4.a-8 b-4.b-8>c4.c8 c4.c8<a-4.a-8 b-4.b-8>c4.c8
-Ch0 e-8<b-8> e-8<b-8 b8f+8 b8f+8 >c+8<g+8 >c+8<g+8 >e-8<b-8 >e-8<b-8>
-Ch0 e-8<b-8> e-8<b-8 b8f+8 b8f+8 >c+8<g+8 >c+8<g+8 b-8 r4.>
+Ch0 (Bass)o3v13
+Ch0 c4.c8<a-4.a-8 b-4.b-8>c4.c8 c4.c8<a-4.a-8 b-4.b-8>e-4.e-8
+Ch0 e-8<b-8> e-8<b-8 b8f+8 b8f+8 >c+8<g+8 >c+8<g+8 b-8 f8 b-8 f8>
+Ch0 e-8<b-8> e-8<b-8 b8f+8 b8f+8 >c+8<g+8 >c+8<g+8 >d8 r4.
 
 Ch0 ddad >d<dad eebe >e<ebe f+f+>c+<f+ >f+<f+>c+<f+ f+f+>c+<f+ >f+<f+>c+<f+
 Ch0 ddad >d<dad eebe >e<ebe e-e-e-g-b-e-g-e- e-e-e-g-e->e-<e-e-
@@ -66,7 +66,7 @@ Ch0 <b8>f+r <b8>f+r <b8>f+r c+8g+r c+8g+r c+8g+r
 Ch1 (Sq3)o5v12
 Ch1 c8<e->c <e-8>c8 c8<e->c <e-8>c8 r8<b-4>d8 c8<e->c <e-8>c8
 Ch1 c8<e->c <e-8>c8 c8<e->c <e-8>c8 r8<b-4>d8 e-8<g>e- <g8>e-8
-Ch1 e-8<g->e- <g-8>e-8 e-8<g->e- <g-8>e-8 r8d-4f8 e-8<g->e- <g-8>e-8
+Ch1 e-8<g->e- <g-8>e-8 e-8<g->e- <g-8>e-8 r8d-4f8 d8<f>d <f8>d8
 Ch1 e-8<g->e- <g-8>e-8 e-8<g->e- <g-8>e-8 r8d-4f8b-8
 Ch1 v14	e8f+8a8
 
@@ -90,7 +90,7 @@ Ch1 a-8a-a- ffa-a- <a->a-8.
 Ch2 (Sq3)o4v12
 Ch2 c8ccc8c8 c8ccc8c8 d4f4 c8ccc8c8
 Ch2 c8ccc8c8 c8ccc8c8 d4f4 c8ce-c8e-8
-Ch2 e-8e-e-e-8e-8 e-8e-e-e-8e-8 f4a-4 e-8e-e-e-8e-8
+Ch2 e-8e-e-e-8e-8 e-8e-e-e-8e-8 f4a-4 d8ddd8d8
 Ch2 e-8e-e-e-8e-8 e-8e-e-e-8e-8 f4a-4 >d8
 Ch2 (Sq3)<b8>c+8f+8
 
@@ -115,7 +115,7 @@ Ch3 (Sq3)v10o3
 Ch3 r8e-8 r8e-e- r8e-8 r8e-8 f4.ff r8e-8 r8e-8
 Ch3 r8e-8 r8e-e- r8e-8 r8e-8 f4.ff g>c<e-g ce-g>c<
 Ch3 e-g-<b->e- g-b-g-e- <b>e-g-b g-e-<b>e-
-Ch3 a-8a-8a-8a-a- <b->g-e-b- g-e-g-b-
+Ch3 a-8a-8a-8a-a- <b->fdb- fdg-b-
 Ch3 e-g-<b->e- g-b-g-e- <b>e-g-b g-e-<b>e-
 Ch3 a-8a-8a-8a-a-b-8r4.
 
@@ -151,7 +151,7 @@ Ch4 (CG3)v14o3
 Ch4 r8c8r8cc r8<a-8r8a-8 b-4.b-b-r8>c8r8c8
 Ch4 r8c8r8cc r8<a-8r8a-8 b-4.b-b- >e-cce- e-ce-g
 Ch4 <b-r>g-8<b-rb-b- r8bb>d+<b>d+f+
-Ch4 c+8c+8c+8c+c+ e-e-r e-e-r e-e-
+Ch4 c+8c+8c+8c+c+ ddr ddr dd
 Ch4 <b-r>g-8 <b-rb-b- r8bb >e-<b>e-g-
 Ch4 c+8c+8c+8c+c+ d8 (Brass)v10>e8f+8a8
 
